@@ -1,7 +1,11 @@
 package com.example.ds.emodiary;
 
+import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
+import android.content.pm.PackageInfo;
+import android.content.pm.PackageManager;
+import android.content.pm.Signature;
 import android.graphics.Paint;
 import android.support.v7.app.ActionBar;
 import android.support.v7.app.AlertDialog;
@@ -9,15 +13,21 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.text.SpannableString;
 import android.text.style.UnderlineSpan;
+import android.util.Base64;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
+import java.security.MessageDigest;
+
 
 public class MainActivity extends AppCompatActivity {
         Button btn;
+    private Context mContext;
+    final String TAG = "KeyHash";
 
         @Override
         protected void onCreate(Bundle savedInstanceState) {
@@ -31,7 +41,34 @@ public class MainActivity extends AppCompatActivity {
 
             ActionBar bar = getSupportActionBar();
             bar.hide();
+
+            /*getHashKey(mContext);*/
         }
+
+    /*public static String getHashKey(Context context){ //해시키 구하기 실패 ㅠㅠ
+        final String TAG = "KeyHash";
+        String keyHash = null;
+        try {
+            PackageInfo info =
+                    context.getPackageManager().getPackageInfo(context.getPackageName(),
+                            PackageManager.GET_SIGNATURES);
+
+            for (Signature signature:info.signatures){
+                MessageDigest md;
+                md = MessageDigest.getInstance("SHA");
+                md.update(signature.toByteArray());
+                keyHash = new String(Base64.encode(md.digest(), 0));
+                Log.d(TAG, keyHash);
+            }
+        }catch (Exception e){
+            Log.e("name not found",e.toString());
+        }
+        if (keyHash != null) {
+            return keyHash;
+        } else {
+            return null;
+        }
+    }*/
 
         //카카오버튼
         public void onKakaoButtonClicked(View view) {
