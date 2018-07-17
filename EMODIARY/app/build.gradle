@@ -10,11 +10,33 @@ android {
         versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
+    signingConfigs {
+
+
+
+        release {
+            storeFile file('C:\\Users\\HanYeji\\Desktop\\Project\\EMODIARY\\app\\test.jks') // 기준은 App 폴더 기준이다.
+
+            storePassword "960727"
+
+            keyAlias "TEST"
+
+            keyPassword "960727"
+
+        }
+
+    }
     buildTypes {
         release {
             minifyEnabled false
+            signingConfig signingConfigs.release
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
+    }
+
+    packagingOptions {
+        exclude 'META-INF/LICENSE'
+        exclude 'META-INF/NOTICE'
     }
 }
 
@@ -26,4 +48,5 @@ dependencies {
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'com.android.support.test:runner:1.0.2'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
-}
+    implementation group: project.KAKAO_SDK_GROUP, name: 'usermgmt', version:project.KAKAO_SDK_VERSION
+    }
