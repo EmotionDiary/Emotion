@@ -69,23 +69,6 @@ public class OneFragment extends Fragment {
             }
         });
 
-        Button next = (Button)view.findViewById(R.id.nextButton);
-        next.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                if(iv_UserPhoto != null){
-                    /*Bundle bundle = new Bundle();
-                    Bitmap bitmap = getArguments().getParcelable("data");
-                    bundle.putParcelable("data",bitmap);//비트맵 번들에 저장*/
-
-                    //OneFragmentResult로 넘어가기
-                    FragmentManager fmanager = getFragmentManager();
-                    FragmentTransaction ftrans = fmanager.beginTransaction();
-                    ftrans.add(R.id.fragment_1,new OneFragmentResult());
-                    ftrans.commit();
-                }
-            }
-        });
         return view;
     }
 
