@@ -23,12 +23,6 @@ public class CustomAdapter extends FragmentStatePagerAdapter {
             case 2:
                 ThreeFragment three = new ThreeFragment();
                 return three;
-            case 3:
-                FourFragment four = new FourFragment();
-                return four;
-            case 4:
-                FiveFragment five = new FiveFragment();
-                return five;
 
                 default :
                 return new ThreeFragment();

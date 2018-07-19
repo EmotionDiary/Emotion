@@ -13,7 +13,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="카메라"
-        android:background="#d5ade6"/>
+        android:background="#ffe699"/>
 
     <Button
         android:id="@+id/album"
@@ -25,10 +25,4 @@
         android:id="@+id/user_image"
         android:layout_width="200dp"
         android:layout_height="200dp" />
-
-    <Button
-        android:id="@+id/nextButton"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="다음"/>
 </LinearLayout>
