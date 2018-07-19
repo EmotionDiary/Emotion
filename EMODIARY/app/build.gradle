@@ -15,7 +15,7 @@ android {
 
 
         release {
-            storeFile file('C:\\Users\\HanYeji\\Desktop\\Project\\EMODIARY\\app\\test.jks') // 기준은 App 폴더 기준이다.
+            storeFile file('C:\\Users\\HanYeji\\Desktop\\Project\\N_EMO\\EMODIARY\\app\\test.jks') // 기준은 App 폴더 기준이다.
 
             storePassword "960727"
 
