@@ -15,7 +15,7 @@ android {
 
 
         release {
-            storeFile file('C:\\Users\\HanYeji\\Desktop\\Project\\N_EMO\\EMODIARY\\app\\test.jks') // 기준은 App 폴더 기준이다.
+            storeFile file('C:\\Android\\Diary\\EMODIARY\\app\\test.jks') // 기준은 App 폴더 기준이다.
 
             storePassword "960727"
 
@@ -49,4 +49,5 @@ dependencies {
     androidTestImplementation 'com.android.support.test:runner:1.0.2'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
     implementation group: project.KAKAO_SDK_GROUP, name: 'usermgmt', version:project.KAKAO_SDK_VERSION
-    }
+    implementation 'com.github.PhilJay:MpAndroidChart:v3.0.2'
+}
