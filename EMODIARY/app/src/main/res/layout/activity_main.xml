@@ -19,32 +19,22 @@
         android:id="@+id/kakaobutton"
         android:layout_width="300dp"
         android:layout_height="wrap_content"
-        android:text="카카오계정으로 로그인"
-        android:background="#f1c40f"
+        android:text="카카오계정 로그인"
+        android:background="#f4c40f"
         android:layout_gravity="center"
         android:layout_marginTop="120dp"
         android:onClick="onKakaoButtonClicked"/>
 
     <Button
-        android:id="@+id/joinbutton"
+        android:id="@+id/google_login"
         android:layout_width="300dp"
         android:layout_height="wrap_content"
-        android:text="회원가입"
-        android:background="#ffe699"
         android:layout_gravity="center"
         android:layout_marginTop="20dp"
-        android:onClick="onJoinButtonClicked"/>
-
-
-    <Button
-        android:id="@+id/loginbutton"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center"
-        android:layout_marginTop="80dp"
-        android:background="@android:color/transparent"
-        android:text="기존 계정으로 로그인"
-        android:onClick="onLoginButtonClicked"/>
+        android:text="구글 계정 로그인"
+        android:textStyle="bold"
+        android:background="@color/colorPrimary"
+        android:onClick="onGoogleButtonClicked"/>
 
     <TextView
         android:layout_width="match_parent"
