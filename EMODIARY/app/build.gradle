@@ -13,9 +13,9 @@ android {
     signingConfigs {
 
 
-
         release {
-            storeFile file('yeji\\Documents\\Git\\EMODIARY\\app\\test.jks') // 기준은 App 폴더 기준이다.
+            storeFile file('cho-yoonyoung\\Desktop\\Android_Pro\\Emotion\\EMODIARY\\app\\test.jks')
+            // 기준은 App 폴더 기준이다.
 
             storePassword "960727"
 
@@ -49,10 +49,13 @@ dependencies {
     implementation 'com.google.firebase:firebase-core:16.0.1'
     androidTestImplementation 'com.android.support.test:runner:1.0.2'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
-    implementation group: project.KAKAO_SDK_GROUP, name: 'usermgmt', version:project.KAKAO_SDK_VERSION
+    implementation group: project.KAKAO_SDK_GROUP, name: 'usermgmt', version: project.KAKAO_SDK_VERSION
     implementation 'com.github.PhilJay:MpAndroidChart:v3.0.2'
     implementation 'com.google.android.gms:play-services-auth:16.0.0'
     implementation 'com.google.firebase:firebase-auth:16.0.3'
+
+    implementation 'com.android.support:recyclerview-v7:27.0.0-rc02'
+    implementation 'com.android.support:cardview-v7:27.1.0'
 
 }
 apply plugin: 'com.google.gms.google-services'
