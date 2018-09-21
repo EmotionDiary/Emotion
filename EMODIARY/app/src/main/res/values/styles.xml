@@ -26,5 +26,9 @@
     <style name="MyActionBar" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
         <item name="android:textColor">@color/colorYellow</item>
     </style>
+    <style name="MyButton" parent="Theme.AppCompat.Light">
+        <item name="colorControlHighlight">@color/teal_100</item>
+        <item name="colorButtonNormal">@color/teal_500</item>
+    </style>
 
 </resources>
