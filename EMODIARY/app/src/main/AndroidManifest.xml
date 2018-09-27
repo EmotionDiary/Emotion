@@ -25,11 +25,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
-        <activity android:name=".Chatbot.Activity.ChatBotActivity"/>
+        <activity android:name=".MainActivity"></activity>
 
         <activity android:name=".HomeActivity"/>
-
+        <activity android:name=".Chatbot.Activity.ChatBotActivity"/>
 
         <meta-data
             android:name="com.kakao.sdk.AppKey"
@@ -45,7 +44,7 @@
                 android:resource="@xml/provider_paths" />
         </provider>
 
-        <activity android:name=".Auth.MainActivity"></activity>
+
     </application>
 
 </manifest>
