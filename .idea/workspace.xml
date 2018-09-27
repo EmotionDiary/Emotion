@@ -1,89 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93243f74-cb3d-4453-8cb2-dad4d88c87d9" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/.gitignore" afterPath="$PROJECT_DIR$/EMODIARY/.gitignore" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/.idea/caches/build_file_checksums.ser" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/.idea/gradle.xml" afterPath="$PROJECT_DIR$/EMODIARY/.idea/gradle.xml" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/.idea/misc.xml" afterPath="$PROJECT_DIR$/EMODIARY/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/EMODIARY/.idea/workspace.xml" afterPath="$PROJECT_DIR$/EMODIARY/EMODIARY/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/.gitignore" afterPath="$PROJECT_DIR$/EMODIARY/app/.gitignore" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/build.gradle" afterPath="$PROJECT_DIR$/EMODIARY/app/build.gradle" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/proguard-rules.pro" afterPath="$PROJECT_DIR$/EMODIARY/app/proguard-rules.pro" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/release/app-release.apk" afterPath="$PROJECT_DIR$/EMODIARY/app/release/app-release.apk" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/release/output.json" afterPath="$PROJECT_DIR$/EMODIARY/app/release/output.json" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/src/androidTest/java/com/example/ds/emodiary/ExampleInstrumentedTest.java" afterPath="$PROJECT_DIR$/EMODIARY/app/src/androidTest/java/com/example/ds/emodiary/ExampleInstrumentedTest.java" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/EMODIARY/app/src/main/AndroidManifest.xml" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/src/main/java/com/example/ds/emodiary/CustomAdapter.java" afterPath="$PROJECT_DIR$/EMODIARY/app/src/main/java/com/example/ds/emodiary/CustomAdapter.java" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/src/main/java/com/example/ds/emodiary/FindPasswordDialog.java" afterPath="$PROJECT_DIR$/EMODIARY/app/src/main/java/com/example/ds/emodiary/FindPasswordDialog.java" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/src/main/java/com/example/ds/emodiary/GlobalApplication.java" afterPath="$PROJECT_DIR$/EMODIARY/app/src/main/java/com/example/ds/emodiary/GlobalApplication.java" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/src/main/java/com/example/ds/emodiary/HomeActivity.java" afterPath="$PROJECT_DIR$/EMODIARY/app/src/main/java/com/example/ds/emodiary/HomeActivity.java" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/src/main/java/com/example/ds/emodiary/IntroActivity.java" afterPath="$PROJECT_DIR$/EMODIARY/app/src/main/java/com/example/ds/emodiary/IntroActivity.java" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/src/main/java/com/example/ds/emodiary/JoinDialog.java" afterPath="$PROJECT_DIR$/EMODIARY/app/src/main/java/com/example/ds/emodiary/JoinDialog.java" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/src/main/java/com/example/ds/emodiary/KakaoSDKAdapter.java" afterPath="$PROJECT_DIR$/EMODIARY/app/src/main/java/com/example/ds/emodiary/KakaoSDKAdapter.java" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/src/main/java/com/example/ds/emodiary/LoginDialog.java" afterPath="$PROJECT_DIR$/EMODIARY/app/src/main/java/com/example/ds/emodiary/LoginDialog.java" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/src/main/java/com/example/ds/emodiary/MainActivity.java" afterPath="$PROJECT_DIR$/EMODIARY/app/src/main/java/com/example/ds/emodiary/MainActivity.java" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/src/main/java/com/example/ds/emodiary/OneFragment.java" afterPath="$PROJECT_DIR$/EMODIARY/app/src/main/java/com/example/ds/emodiary/OneFragment.java" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/src/main/java/com/example/ds/emodiary/ThreeFragment.java" afterPath="$PROJECT_DIR$/EMODIARY/app/src/main/java/com/example/ds/emodiary/ThreeFragment.java" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/src/main/java/com/example/ds/emodiary/TwoFragment.java" afterPath="$PROJECT_DIR$/EMODIARY/app/src/main/java/com/example/ds/emodiary/TwoFragment.java" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterPath="$PROJECT_DIR$/EMODIARY/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/src/main/res/drawable/angry.png" afterPath="$PROJECT_DIR$/EMODIARY/app/src/main/res/drawable/angry.png" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/src/main/res/drawable/calendar.png" afterPath="$PROJECT_DIR$/EMODIARY/app/src/main/res/drawable/calendar.png" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/src/main/res/drawable/camera.png" afterPath="$PROJECT_DIR$/EMODIARY/app/src/main/res/drawable/camera.png" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/src/main/res/drawable/happy.png" afterPath="$PROJECT_DIR$/EMODIARY/app/src/main/res/drawable/happy.png" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/src/main/res/drawable/ic_launcher_background.xml" afterPath="$PROJECT_DIR$/EMODIARY/app/src/main/res/drawable/ic_launcher_background.xml" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/src/main/res/drawable/id.png" afterPath="$PROJECT_DIR$/EMODIARY/app/src/main/res/drawable/id.png" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/src/main/res/drawable/nothing.png" afterPath="$PROJECT_DIR$/EMODIARY/app/src/main/res/drawable/nothing.png" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/src/main/res/drawable/one.png" afterPath="$PROJECT_DIR$/EMODIARY/app/src/main/res/drawable/one.png" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/src/main/res/drawable/password.png" afterPath="$PROJECT_DIR$/EMODIARY/app/src/main/res/drawable/password.png" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/src/main/res/drawable/person.png" afterPath="$PROJECT_DIR$/EMODIARY/app/src/main/res/drawable/person.png" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/src/main/res/drawable/rect.png" afterPath="$PROJECT_DIR$/EMODIARY/app/src/main/res/drawable/rect.png" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/src/main/res/drawable/sad.png" afterPath="$PROJECT_DIR$/EMODIARY/app/src/main/res/drawable/sad.png" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/src/main/res/drawable/settings.png" afterPath="$PROJECT_DIR$/EMODIARY/app/src/main/res/drawable/settings.png" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/src/main/res/drawable/speech.png" afterPath="$PROJECT_DIR$/EMODIARY/app/src/main/res/drawable/speech.png" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/src/main/res/drawable/statistics.png" afterPath="$PROJECT_DIR$/EMODIARY/app/src/main/res/drawable/statistics.png" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/src/main/res/drawable/two.png" afterPath="$PROJECT_DIR$/EMODIARY/app/src/main/res/drawable/two.png" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/src/main/res/font/font.xml" afterPath="$PROJECT_DIR$/EMODIARY/app/src/main/res/font/font.xml" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/src/main/res/font/pencil.ttf" afterPath="$PROJECT_DIR$/EMODIARY/app/src/main/res/font/pencil.ttf" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/src/main/res/font/seoulhangang.ttf" afterPath="$PROJECT_DIR$/EMODIARY/app/src/main/res/font/seoulhangang.ttf" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/src/main/res/font/seoulnamsan.ttf" afterPath="$PROJECT_DIR$/EMODIARY/app/src/main/res/font/seoulnamsan.ttf" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/src/main/res/layout/activity_home.xml" afterPath="$PROJECT_DIR$/EMODIARY/app/src/main/res/layout/activity_home.xml" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/src/main/res/layout/activity_intro.xml" afterPath="$PROJECT_DIR$/EMODIARY/app/src/main/res/layout/activity_intro.xml" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/EMODIARY/app/src/main/res/layout/activity_main.xml" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/src/main/res/layout/findpassword_dialog.xml" afterPath="$PROJECT_DIR$/EMODIARY/app/src/main/res/layout/findpassword_dialog.xml" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/src/main/res/layout/fragment_1.xml" afterPath="$PROJECT_DIR$/EMODIARY/app/src/main/res/layout/fragment_1.xml" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/src/main/res/layout/fragment_2.xml" afterPath="$PROJECT_DIR$/EMODIARY/app/src/main/res/layout/fragment_2.xml" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/src/main/res/layout/fragment_3.xml" afterPath="$PROJECT_DIR$/EMODIARY/app/src/main/res/layout/fragment_3.xml" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/src/main/res/layout/join_dialog.xml" afterPath="$PROJECT_DIR$/EMODIARY/app/src/main/res/layout/join_dialog.xml" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/src/main/res/layout/login_dialog.xml" afterPath="$PROJECT_DIR$/EMODIARY/app/src/main/res/layout/login_dialog.xml" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterPath="$PROJECT_DIR$/EMODIARY/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterPath="$PROJECT_DIR$/EMODIARY/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/EMODIARY/app/src/main/res/mipmap-hdpi/ic_launcher.png" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterPath="$PROJECT_DIR$/EMODIARY/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/EMODIARY/app/src/main/res/mipmap-mdpi/ic_launcher.png" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterPath="$PROJECT_DIR$/EMODIARY/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/EMODIARY/app/src/main/res/mipmap-xhdpi/ic_launcher.png" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterPath="$PROJECT_DIR$/EMODIARY/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/EMODIARY/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterPath="$PROJECT_DIR$/EMODIARY/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/EMODIARY/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterPath="$PROJECT_DIR$/EMODIARY/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/src/main/res/values-v16/styles.xml" afterPath="$PROJECT_DIR$/EMODIARY/app/src/main/res/values-v16/styles.xml" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/src/main/res/values/colors.xml" afterPath="$PROJECT_DIR$/EMODIARY/app/src/main/res/values/colors.xml" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/EMODIARY/app/src/main/res/values/strings.xml" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/src/main/res/values/styles.xml" afterPath="$PROJECT_DIR$/EMODIARY/app/src/main/res/values/styles.xml" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/src/main/res/xml/file_paths.xml" afterPath="$PROJECT_DIR$/EMODIARY/app/src/main/res/xml/file_paths.xml" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/src/test/java/com/example/ds/emodiary/ExampleUnitTest.java" afterPath="$PROJECT_DIR$/EMODIARY/app/src/test/java/com/example/ds/emodiary/ExampleUnitTest.java" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/app/test.jks" afterPath="$PROJECT_DIR$/EMODIARY/app/test.jks" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/build.gradle" afterPath="$PROJECT_DIR$/EMODIARY/build.gradle" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/gradle.properties" afterPath="$PROJECT_DIR$/EMODIARY/gradle.properties" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/gradle/wrapper/gradle-wrapper.jar" afterPath="$PROJECT_DIR$/EMODIARY/gradle/wrapper/gradle-wrapper.jar" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/gradle/wrapper/gradle-wrapper.properties" afterPath="$PROJECT_DIR$/EMODIARY/gradle/wrapper/gradle-wrapper.properties" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/gradlew" afterPath="$PROJECT_DIR$/EMODIARY/gradlew" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/gradlew.bat" afterPath="$PROJECT_DIR$/EMODIARY/gradlew.bat" />
-      <change beforePath="$PROJECT_DIR$/EMODIARY/settings.gradle" afterPath="$PROJECT_DIR$/EMODIARY/settings.gradle" />
-    </list>
+    <list default="true" id="93243f74-cb3d-4453-8cb2-dad4d88c87d9" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -94,6 +12,7 @@
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -103,10 +22,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="140" />
-    <option name="y" value="25" />
-    <option name="width" value="1080" />
-    <option name="height" value="810" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -188,11 +107,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="ProjectPane" />
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -232,6 +151,7 @@
       </option>
       <envs />
       <patterns />
+      <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -246,6 +166,7 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
+      <method />
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
@@ -253,6 +174,7 @@
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
+      <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -280,6 +202,7 @@
       <envs />
       <properties />
       <listeners />
+      <method />
     </configuration>
     <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
       <option name="MAIN_CLASS_NAME" />
@@ -317,23 +240,23 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="140" y="25" width="1080" height="810" extended-state="0" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24929178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24920802" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
