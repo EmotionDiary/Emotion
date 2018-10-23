@@ -69,15 +69,19 @@ public class ChatBotActivity extends AppCompatActivity {
                 //mWebSocketClient.send(ChatUtils.chat_to_json_text(chat));
                 chats.add(chat);
 
+
+                //챗봇 시나리오 집어넣는 곳
+
                 if (getMessage().contains(ACTION_START)) {
                     chat = new Chat(current_name, current_room_no, DateFormat.date_apm(), "안녕하세요. Emo에요~ 당신의 감정을 알려주세요", false, ACTION_TEXT);
                 }
+
                 if (getMessage().contains(ACTION_DONE)) {
                     chat = new Chat(current_name, current_room_no, DateFormat.date_apm(), "당신 안녕", false, ACTION_TEXT);
                     //mWebSocketClient.send(ChatUtils.chat_to_json_text(chat));
                     chats.add(chat);
                 }
-                if (getMessage().contains("사랑해")) {
+                if (getMessage().contains("1")) {
                     chat = new Chat(current_name, current_room_no, DateFormat.date_apm(), "나도 사랑해", false, ACTION_TEXT);
                     //mWebSocketClient.send(ChatUtils.chat_to_json_text(chat));
                     chats.add(chat);
